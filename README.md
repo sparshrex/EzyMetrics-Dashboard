@@ -105,6 +105,6 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 
 ### Author 
-- [Sparsh Verma](https://github.com/sparshrex)
+- Sparsh Verma [Sparsh Verma](https://github.com/sparshrex)
 
 ---
