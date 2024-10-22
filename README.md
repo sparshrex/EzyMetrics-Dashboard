@@ -1,6 +1,6 @@
 # EzyMetrics Dashboard App
 
-This is a **Lead Management Dashboard** built using **React.js** and **Tailwind CSS**. It allows users to manage leads, view analytics, generate reports, and customize widgets on the dashboard. This app is a starting template that can be extended to fit real-world lead management use cases.
+This is a **EzyMetrics Management Dashboard** built using **React.js** and **Tailwind CSS**. It allows users to manage leads, view analytics, generate reports, and customize widgets on the dashboard. This app is a starting template that can be extended to fit real-world lead management use cases.
 
 ## Features
 
@@ -9,6 +9,7 @@ This is a **Lead Management Dashboard** built using **React.js** and **Tailwind 
 - **Lead Management**: View and manage leads with a modal for detailed lead information.
 - **Analytics**: Visualized metrics and performance data using `Chart.js`.
 - **Reports**: Export data into CSV format for easy report generation.
+- **Responsive Design**: Fully responsive and optimized UI that works seamlessly across all screen sizes (mobile, tablet, laptop, desktop), ensuring a great user experience on any device.
 
 ## Table of Contents
 
@@ -40,10 +41,14 @@ Make sure you have **Node.js** and **npm** installed.
 1. Clone the repository or download the zip file.
 
    ```bash
-   git clone https://github.com/yourusername/lead-management-app.git
+   git clone https://github.com/sparshrex/EzyMetrics-Dashboard.git
    ```
 
 2. Navigate to the project directory.
+
+     ```bash
+   cd EzyMetrics-Dashboard
+   ```
 
 3. Install the dependencies.
 
@@ -97,5 +102,9 @@ It correctly bundles React in production mode and optimizes the build for the be
 ### Reports (`components/Reports.js`)
 
 - Provides an option to download lead data in CSV format using the `react-csv` library.
+
+
+### Author 
+- [Sparsh Verma](https://github.com/sparshrex)
 
 ---
